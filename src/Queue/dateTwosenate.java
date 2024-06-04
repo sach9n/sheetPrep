@@ -1,2 +1,4 @@
-package Queue;public class dateTwosenate {
+package Queue;
+
+public class dateTwosenate {
 }

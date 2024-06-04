@@ -1,2 +1,4 @@
-package Queue;public class implementQueueUsingstack {
+package Queue;
+
+public class implementQueueUsingstack {
 }
